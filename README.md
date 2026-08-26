@@ -2,7 +2,7 @@
 
 🎮 Hangman<br>
 
-Build_something is a Hangman game I made in Python 🐍 for the ACE Programming Extreme Task.<br>
+Build_something is a Hangman game I made in Python 🐍 .<br>
 
 The game randomly chooses a word from Word_list.py and gives you the usual Hangman challenge of guessing the word before you run out of attempts. The Hangman drawings used in the game are stored in arts.py 🎨.<br>
 
