@@ -1,4 +1,4 @@
-<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/7cd19559-ad79-4392-a8b2-a0bbe4bc9188" />
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/7cd19559-ad79-4392-a8b2-a0bbe4bc9188" /><br><br>
 
 🎮 Hangman<br>
 
@@ -31,4 +31,8 @@ Run the following command:<br><br>
 
 python Build_something.py<br>
 
-Have fun and good luck guessing the words! 🎮
+Have fun and good luck guessing the words! 🎮<br><br>
+
+
+
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/0e6e965a-d7c4-49e0-84a6-8b33a2d3d63f" />
