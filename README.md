@@ -25,9 +25,11 @@ Guess the word before you run out of attempts 💀.<br><br><br>
 🛠️ Requirements<br><br>
 Python 3.x 🐍<br><br>
 
-▶️ Running the Game<br>
+▶️ Made entirely by me with the minimal help of AI <br>
 
 Have fun and good luck guessing the words! 🎮<br><br><br>
+
+
 
 
 
