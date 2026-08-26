@@ -27,10 +27,6 @@ Python 3.x 🐍<br><br>
 
 ▶️ Running the Game<br>
 
-Run the following command:<br>
-
-python Build_something.py<br>
-
 Have fun and good luck guessing the words! 🎮<br><br><br>
 
 
