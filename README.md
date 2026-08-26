@@ -23,11 +23,11 @@ Guess the word before you run out of attempts 💀.<br><br><br>
 
 
 🛠️ Requirements<br><br>
-Python 3.x 🐍<br>
-A terminal or Python IDE<br>
-▶️ Running the Game<br><br>
+Python 3.x 🐍<br><br>
 
-Run the following command:<br><br>
+▶️ Running the Game<br>
+
+Run the following command:<br>
 
 python Build_something.py<br>
 
