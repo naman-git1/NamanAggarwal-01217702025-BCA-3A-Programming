@@ -2,9 +2,9 @@
 
 🎮 Hangman<br><br>
 
-Build_something is a Hangman game I made in Python 🐍 .<br><br><br>
+Build_something is a Hangman game I made in Python 🐍 .<br><br>
 
-The game randomly chooses a word from Word_list.py and gives you the usual Hangman challenge of guessing the word before you run out of attempts. The Hangman drawings used in the game are stored in arts.py 🎨.<br><br><br>
+The game randomly chooses a word from Word_list.py and gives you the usual Hangman challenge of guessing the word before you run out of attempts. The Hangman drawings used in the game are stored in arts.py 🎨.<br><br>
 
 📂 Files<br><br>
 🐍 Build_something.py — Contains the main game and its logic.<br>
@@ -25,9 +25,9 @@ Guess the word before you run out of attempts 💀.<br><br><br>
 🛠️ Requirements<br><br>
 Python 3.x 🐍<br>
 A terminal or Python IDE<br>
-▶️ Running the Game<br><br><br>
+▶️ Running the Game<br><br>
 
-Run the following command:<br><br><br>
+Run the following command:<br><br>
 
 python Build_something.py<br>
 
